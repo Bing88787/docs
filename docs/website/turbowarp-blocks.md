@@ -15,7 +15,7 @@ NEW: TurboWarp now supports unsandboxed extensions which add new blocks! https:/
 
 See https://scratch.mit.edu/projects/414716080/
 
-These blocks are "compatible" with Scratch because they're actually just modified argument reporters.
+These blocks are "compatible" with Scratch because they're actually just modified argument reporters. they are incompatible with leopardjs
 
 :::warning
 Every block beyond this warning is **incompatible** with Scratch. Projects that use them **can not** be uploaded to the Scratch website. If you don't use any TurboWarp-exclusive blocks, then there should be no issue with making your project in TurboWarp and uploading it to Scratch.
